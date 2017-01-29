@@ -1,0 +1,2 @@
+C:\Users\Seth\AppData\Local\Temporary Projects\UDP Test\bin\Debug\UDP Test.exe.config
+C:\Users\Seth\AppData\Local\Temporary Projects\UDP Test\bin\Debug\UDP Data Test.exe.config

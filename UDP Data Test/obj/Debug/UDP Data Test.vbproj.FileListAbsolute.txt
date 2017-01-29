@@ -1,0 +1,14 @@
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\final\UDP Data Test\UDP Data Test\UDP Data Test\bin\Debug\UDP Data Test.exe.config
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\final\UDP Data Test\UDP Data Test\UDP Data Test\obj\Debug\UDP_Test.Form1.resources
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\final\UDP Data Test\UDP Data Test\UDP Data Test\obj\Debug\UDP_Test.Resources.resources
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\final\UDP Data Test\UDP Data Test\UDP Data Test\obj\Debug\UDP Data Test.vbproj.GenerateResource.Cache
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\final\UDP Data Test\UDP Data Test\UDP Data Test\bin\Debug\UDP Data Test.exe
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\final\UDP Data Test\UDP Data Test\UDP Data Test\bin\Debug\UDP Data Test.pdb
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\final\UDP Data Test\UDP Data Test\UDP Data Test\bin\Debug\UDP Data Test.xml
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\final\UDP Data Test\UDP Data Test\UDP Data Test\obj\Debug\UDP Data Test.exe
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\final\UDP Data Test\UDP Data Test\UDP Data Test\obj\Debug\UDP Data Test.xml
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\final\UDP Data Test\UDP Data Test\UDP Data Test\obj\Debug\UDP Data Test.pdb
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\final\UDP Data Test\UDP Data Test\UDP Data Test\bin\Debug\UDP Data Test.exe.manifest
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\final\UDP Data Test\UDP Data Test\UDP Data Test\bin\Debug\UDP Data Test.application
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\final\UDP Data Test\UDP Data Test\UDP Data Test\obj\Debug\UDP Data Test.exe.manifest
+C:\Users\Seth\Documents\Syncs\WindowsShare\Schooling Resources\Stark State 2016\Summer\Visual Basic\final\UDP Data Test\UDP Data Test\UDP Data Test\obj\Debug\UDP Data Test.application
